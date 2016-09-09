@@ -1,0 +1,5 @@
+author: "Richard Hall <richard at madglory.com>"
+category: "data"
+summary: "Force a user's nickname to match their username when sending any presence messages in group chat"
+home: "https://github.com/madglory/mod_no_muc_mimic/"
+url: "git@github.com:madglory/mod_no_muc_mimic.git"
